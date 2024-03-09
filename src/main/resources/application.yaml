@@ -1,0 +1,4 @@
+#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
+spring:
+  ai:
+    openai.api-key: ${OPEN_AI_KEY}
